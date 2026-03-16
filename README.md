@@ -1,1 +1,1 @@
-用于记录科研信息，避免遗忘
+For recording research dta
