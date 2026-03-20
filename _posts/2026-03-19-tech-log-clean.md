@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Tech Log Clean"
+math: true
+---
+
 # 2026年3月19日 研究日志
 今日主题：整理最近学习的生物信息学相关概念、算法及python函数。同时将一些小技巧也记录下来。
 
