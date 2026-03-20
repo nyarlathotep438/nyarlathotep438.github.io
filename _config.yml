@@ -1,5 +1,5 @@
-title: Nyarlathotep438 Blog
-author: Nyarlathotep438
+title: Shixiang's Blog
+author: Shixiang
 email: shixiangy130@gmail.com
 description: >
   Records of algorithms, bioinformatics, workflow optimization, and study notes.
@@ -8,7 +8,7 @@ theme: minima
 
 
 minima:
-  skin: classic   # 可选：classic, dark, solarized
+  skin: classic  
 
 markdown: kramdown
 highlighter: rouge
