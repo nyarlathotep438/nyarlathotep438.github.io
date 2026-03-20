@@ -1,13 +1,26 @@
-title: "Technology Blog"
-description: "Bioinformatics, algorithms, workflows, and notes"
-theme: jekyll-theme-hacker
+title: Nyarlathotep438 Blog
+author: Nyarlathotep438
+email: shixiangy130@gmail.com
+description: >
+  Records of algorithms, bioinformatics, workflow optimization, and study notes.
+
+theme: minima
+
+
+minima:
+  skin: classic   # 可选：classic, dark, solarized
 
 markdown: kramdown
+highlighter: rouge
 
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+permalink: /:year/:month/:day/:title/
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
